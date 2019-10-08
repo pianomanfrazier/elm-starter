@@ -1,0 +1,14 @@
+{
+  "name": "elm-starter",
+  "version": "1.0.0",
+  "description": "An elm starter template repository",
+  "keywords": [
+    "elm",
+    "template repository"
+  ],
+  "author": "Ryan Frazier",
+  "license": "MIT",
+  "devDependencies": {
+    "elm-live": "^4.0.1"
+  }
+}
