@@ -12,5 +12,5 @@ I recommend using [elm-live](https://www.elm-live.com/) for a simple and conveni
 
 ```bash
 npm i
-npx elm-live src/Main.elm -- --output=elm.js
+npx elm-live src/Main.elm --hot --open -- --output=elm.js
 ```
